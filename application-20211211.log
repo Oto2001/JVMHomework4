@@ -1,0 +1,4 @@
+2021-12-11 14:56:32.145 [main] ERROR FilterCollections - Unexpected error occurred: 
+java.lang.ArithmeticException: / by zero
+	at FilterCollections.filterMap(FilterCollections.java:52) [classes/:?]
+	at Main.main(Main.java:8) [classes/:?]
